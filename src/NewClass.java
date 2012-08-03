@@ -7,6 +7,7 @@
  *
  * @author Ben
  */
-public class NewClass {
-    
+public class NewClass 
+{
+    int alog;
 }
